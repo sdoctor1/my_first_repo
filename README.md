@@ -1,28 +1,25 @@
-# This is a large heading
+# Stephanie Doctor
 
-## This is a smaller heading
+### About Me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live and work in Boulder, Colorado. I work as a music production engineer/qa. 
+I like to ski, backpack, cook, read, write music, and play with my puppy in my free time.
 
-- This is
-- an unordered
-- list
+### My Favorite Ski Resorts:
 
-1. This is
-2. an ordered
-3. list
+- *Arapahoe Basin*
+- *Winter Park*
+- *Crested Butte*
 
-Here is `some code` in the middle of a sentence.
+### My Favorite Backpacking Trips:
 
-```
-This is
-a block
-of code
-```
+1. *Ice Lakes* in the San Juans
+2. *Shoshone Geyser Basin* in Yellowstone National Park
+3. *Many Glacier Loop* in Glacier National Park
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
+
+
+
+
