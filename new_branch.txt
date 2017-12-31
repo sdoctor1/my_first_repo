@@ -1,1 +1,3 @@
 this is my new practice file
+my favorite color is red
+my favorite color is blue
